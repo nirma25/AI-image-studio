@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Studio",
+  "description": "An application to generate images from text prompts and remove backgrounds from existing images using the Gemini API.",
+  "requestFramePermissions": []
+}
